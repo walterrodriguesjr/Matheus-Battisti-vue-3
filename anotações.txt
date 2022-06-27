@@ -1,0 +1,19 @@
+https://www.youtube.com/watch?v=wsAQQioPIJs&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL
+Curso de Vue 3: #01 - Introdução (2021)
+	apresentação do curso 
+		projeto make hamburguer 
+	
+	Vue é um framework progressivo para criar interfaces 
+	tem a construção de layouts baseado em componenentes 
+	possui módulos para manipulação de rotas (Vue Routes) e também state (Vuex)
+
+
+https://www.youtube.com/watch?v=-w1VVGycLRM&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=2
+Curso de Vue 3: #02 - Como instalar o Vue (2021)
+	instalçao do Vue 
+		utilizando via CDN 
+
+		parei em 00:40seg
+			
+
+	
