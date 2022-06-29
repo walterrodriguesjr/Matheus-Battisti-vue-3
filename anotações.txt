@@ -20,6 +20,16 @@ https://www.youtube.com/watch?v=-w1VVGycLRM&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUu
 https://www.youtube.com/watch?v=bdD04cHOKfY&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=3
 3-Curso de Vue 3: #03 - Inputs e Data Binding
 
-	iniciar
+	-'data binding' é uma das funcionalidades mais interessantes
+	-permite mudar em tempo real um dado, por meio do que é recebido de um input, por exemplo
+		utilizado a diretiva 'v-model' no input, para que seja capturado o text do campo e possibilitando 
+			reutiliza-lo em outra area 
+		no input de submit, foi utilizado a diretiva 'v-on:click', caso não queira usar o método de binding, e 
+			sim, submeter o dado do input de text 
 
+
+https://www.youtube.com/watch?v=ec046jmrgXQ&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=6
+4-Curso de Vue 3: #05 - Criando componentes
+
+iniciar
 	

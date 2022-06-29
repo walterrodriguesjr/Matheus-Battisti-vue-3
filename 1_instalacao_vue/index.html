@@ -11,7 +11,18 @@
 <body>
     
 <div id="app">
-    <p>O meu nome é {{ name }}, tenho {{ idade }} anos de idade e moro na cidade de {{ cidade }}.</p>
+
+    <form id="app-form">
+        <input type="text" v-model="input_name" placeholder="Digite o seu nome"><br>
+        <input type="text" v-model="input_idade" placeholder="Digite a sua idade"><br>
+        <input type="text" v-model="input_cidade" placeholder="Digite a sua cidade"><br>
+        <input type="submit" value="Enviar" v-on:click="submitForm">
+    </form>
+
+    <p>O meu nome é: {{ input_name }}
+    <p>minha idade é: {{ input_idade }}
+    <p>moro na cidade de: {{ input_cidade }}</p>
+    
 </div>
 </body>
 </html>
