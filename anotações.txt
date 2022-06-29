@@ -28,8 +28,32 @@ https://www.youtube.com/watch?v=bdD04cHOKfY&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUu
 			sim, submeter o dado do input de text 
 
 
-https://www.youtube.com/watch?v=ec046jmrgXQ&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=6
-4-Curso de Vue 3: #05 - Criando componentes
+https://www.youtube.com/watch?v=yrxG24n1oXI&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=44-Curso de Vue 3: #04 - Utilizando o Vue CLI
+4-Curso de Vue 3: #04 - Utilizando o Vue CLI
 
-iniciar
+	-o CLI é uma ferramenta de linha de comando do Vue 
+		possibilita criar e configurar projetos de forma mais avançada
+			ex: instalar o Vue router desde a instalação do projeto
+
+		instalação do node 
+
+		instalando o CLI de forma global
+			npm install -g @vue/cli
+
+		criado uma aplicação vue via cmd no CLI
+			vue create 2_projeto_vue
+
+		iniciado um server local do vue, acessado via localhost:8080
+			npm run serve 
+
+
+https://www.youtube.com/watch?v=ec046jmrgXQ&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=5
+5-Curso de Vue 3: #05 - Criando componentes
+
+	-iniciar
+
+		
+
+
+
 	
