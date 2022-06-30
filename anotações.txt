@@ -50,7 +50,14 @@ https://www.youtube.com/watch?v=yrxG24n1oXI&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUu
 https://www.youtube.com/watch?v=ec046jmrgXQ&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=5
 5-Curso de Vue 3: #05 - Criando componentes
 
-	-iniciar
+	-é por meio de componenentes que podemos dividir o nosso layout em partes 
+	-cada componente tem sua responsabilidade, aumentando o nível de abstração e reeutilização 
+	-cada um com seu CSS 
+
+	-instalado a extenção do vs.code: Vetur 
+
+	Foi criado um componente que foi importado para o template principal
+
 
 		
 
