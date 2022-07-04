@@ -59,6 +59,18 @@ https://www.youtube.com/watch?v=ec046jmrgXQ&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUu
 	Foi criado um componente que foi importado para o template principal
 
 
+https://www.youtube.com/watch?v=_BXj6CwuL0Q&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=6
+6-Curso de Vue 3: #06 - Dados em componentes (data)
+
+	-os componenentes podem ter dados 
+		os dados ficam em uma função chamada 'data'
+
+	
+
+
+
+
+
 		
 
 
