@@ -71,6 +71,19 @@ https://www.youtube.com/watch?v=yzXOZZQPSeM&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUu
 
 	-os life cycle hooks são eventos que podem ser ativados em determinadas partes da execução do programa 
 		created 
+		mounted 
+			permitem a criação de ações 
+
+
+https://www.youtube.com/watch?v=H5PopRSJBTY&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=8
+8-Hierarquia de componentes
+
+	-é comum componentes terem outros componentes que dependem deles 
+	-ou seja, criamos uma arvore de componenentes
+		
+
+		
+
 
 	
 
