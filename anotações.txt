@@ -65,6 +65,20 @@ https://www.youtube.com/watch?v=_BXj6CwuL0Q&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUu
 	-os componenentes podem ter dados 
 		os dados ficam em uma função chamada 'data'
 
+
+https://www.youtube.com/watch?v=yzXOZZQPSeM&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=7
+7-Curso de Vue 3: #07 - Entendendo os Lifecycle hooks (ciclo de vida)
+
+	-os life cycle hooks são eventos que podem ser ativados em determinadas partes da execução do programa 
+		created 
+
+	
+
+	
+
+	
+
+
 	
 
 
