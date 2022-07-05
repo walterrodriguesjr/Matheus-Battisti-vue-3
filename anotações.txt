@@ -91,6 +91,16 @@ https://www.youtube.com/watch?v=5XJHIoK_nHU&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUu
 			podemos alterar a lógica pelos valores inseridos em data 
 
 
+https://www.youtube.com/watch?v=FtcreaLDeWA&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=10
+10-Curso de Vue 3: #10 - Atributos dinâmicos
+	
+	-argumentos: são valores dinâmicos que podem ser inseridos em: 
+		diretivas: baseados nestes valores para executar um determinado comportamento
+		atributos: mudar URL de links ou src de imagens 
+
+	
+
+
 
 
 		
