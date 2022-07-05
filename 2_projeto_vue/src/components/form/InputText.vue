@@ -1,11 +1,9 @@
 <template>
-    <div>
-        <input type="text">
-    </div>
+    <input type="text">
 </template>
 
 <script>
- export default {
+export default {
     name: 'InputText'
- }
+}
 </script>
