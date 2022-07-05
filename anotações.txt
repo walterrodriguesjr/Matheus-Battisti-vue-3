@@ -80,6 +80,21 @@ https://www.youtube.com/watch?v=H5PopRSJBTY&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUu
 
 	-é comum componentes terem outros componentes que dependem deles 
 	-ou seja, criamos uma arvore de componenentes
+
+
+https://www.youtube.com/watch?v=5XJHIoK_nHU&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=9
+9-Curso de Vue 3: #09 - Conhecendo as diretivas (v-if, v-show, v-for)
+
+	-diretivas em Vue: 
+		v-if, pode mudar a exibição de uma parte do layout, baseada em uma condição
+			são essenciais para uma aplicação dinamica 
+			podemos alterar a lógica pelos valores inseridos em data 
+
+
+
+
+		
+
 		
 
 		
