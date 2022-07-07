@@ -108,13 +108,23 @@ https://www.youtube.com/watch?v=745aPtV_W60&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUu
 
 
 https://www.youtube.com/watch?v=kMpeOHM4fZg&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=12
-Curso de Vue 3: #12 - CSS Scoped e CSS global
+12-Curso de Vue 3: #12 - CSS Scoped e CSS global
 
 	-o CSS no Vue pode ser dividido em duas categorias: 
 		global: onde definimos no App, e se aplica a todos os elementos 
 		scoped: onde cada componente pode ter seu estilo, deixando mais fácil de pesonalizar os elementos, serve para estilizar componentes 
 			individualmente 
 
+
+https://www.youtube.com/watch?v=GvGYlBYtlAk&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=13
+13-Curso de Vue 3: #13 - Renderização de listas (v-for)
+
+	-as listas (arrays) serão renderizadas por DIRETIVAS 
+		será usado o v-for para isso 
+		o dado pode vir de DATA, como um array 
+		e cada item pode ser impresso no HTML 
+
+	
 		
 
 		
