@@ -125,6 +125,21 @@ https://www.youtube.com/watch?v=GvGYlBYtlAk&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUu
 		e cada item pode ser impresso no HTML 
 
 	
+https://www.youtube.com/watch?v=h8Z-pRhe-dw&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=14
+14-Curso de Vue 3: #14 - Eventos (@submit e @click)
+
+	-os eventos são utilizados para complementar ações dos usuários com ativações de métodos 
+		o evento recebe um paramêtro, que é um método que será executado 
+
+	criado um formulário básico, que está capturando os valores dos imputs e imprimindo no console.log 
+
+
+https://www.youtube.com/watch?v=AKXG0SblA1w&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=15
+15-Curso de Vue 3: #15 - Múltiplos eventos
+
+	-
+
+
 		
 
 		
