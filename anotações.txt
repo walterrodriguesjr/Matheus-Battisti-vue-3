@@ -137,7 +137,15 @@ https://www.youtube.com/watch?v=h8Z-pRhe-dw&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUu
 https://www.youtube.com/watch?v=AKXG0SblA1w&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=15
 15-Curso de Vue 3: #15 - Múltiplos eventos
 
-	-
+	-o vue também permite a entrada de múltiplos eventos em um único evento 
+		a sintaxe permanece a mesma 
+		separa os eventos por vírgula 
+		permite executar 3 ou mais métodos com um click 
+
+
+
+
+	
 
 
 		
