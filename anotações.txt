@@ -143,6 +143,14 @@ https://www.youtube.com/watch?v=AKXG0SblA1w&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUu
 		permite executar 3 ou mais métodos com um click 
 
 
+https://www.youtube.com/watch?v=njcYIgHhFMc&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=16
+16-Curso de Vue 3: #16 - Reutilização de componentes
+
+	-no Vue é comum a reutilização de componentes 
+		cada um será completamente independente 
+		
+
+
 
 
 	
