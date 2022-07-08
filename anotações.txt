@@ -148,7 +148,16 @@ https://www.youtube.com/watch?v=njcYIgHhFMc&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUu
 
 	-no Vue é comum a reutilização de componentes 
 		cada um será completamente independente 
-		
+
+
+https://www.youtube.com/watch?v=-B78d9052zY&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=17
+17-Curso de Vue 3: #17 - Utilizando props
+
+	-passar dados com props 
+		os componenentes do Vue podem receber dados, e este recurso é chamadado de 'props' 
+			as props podem ser passadas por valores do data, e também podemos inserir diretamente eles 
+			
+		INICIAR
 
 
 
