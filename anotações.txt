@@ -156,6 +156,8 @@ https://www.youtube.com/watch?v=-B78d9052zY&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUu
 	-passar dados com props 
 		os componenentes do Vue podem receber dados, e este recurso é chamadado de 'props' 
 			as props podem ser passadas por valores do data, e também podemos inserir diretamente eles 
+		'props', é a ação de passar dados do componenente pai para o componente filho 
+		
 			
 		INICIAR
 
