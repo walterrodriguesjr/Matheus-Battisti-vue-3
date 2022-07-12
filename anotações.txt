@@ -157,9 +157,13 @@ https://www.youtube.com/watch?v=-B78d9052zY&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUu
 		os componenentes do Vue podem receber dados, e este recurso é chamadado de 'props' 
 			as props podem ser passadas por valores do data, e também podemos inserir diretamente eles 
 		'props', é a ação de passar dados do componenente pai para o componente filho 
-		
-			
-		INICIAR
+
+
+https://www.youtube.com/watch?v=RXldGbtzZdI&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=18
+18-Curso de Vue 3: #18 - Emit
+
+	-utilizando o $emit é possível ouvir um evento de um componenente filho em um componenente pai 
+
 
 
 
