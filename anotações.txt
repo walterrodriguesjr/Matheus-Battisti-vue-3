@@ -176,9 +176,19 @@ https://www.youtube.com/watch?v=bleEztMsSDk&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUu
 20-Curso de Vue 3: #20 - Criando uma API com JSON server
 
 	-instalando o json-server, para simular o back-end, serve como uma API
-		npm install json-server
+		npm install json-server (cria um comando npm run) npm run backend
 
+
+https://www.youtube.com/watch?v=B5NX9oPf5fI&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=21
+21-Curso de Vue 3: #21 - Implementando o Vue Router 
+
+	-entendendo o vue router 
+		baixado as imagens do projeto e o faviicon substituído 
+		contruído os components de home e pedidos 
 		
+
+
+
 
 	
 
