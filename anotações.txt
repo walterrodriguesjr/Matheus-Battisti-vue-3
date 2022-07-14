@@ -166,10 +166,19 @@ https://www.youtube.com/watch?v=RXldGbtzZdI&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUu
 
 
 https://www.youtube.com/watch?v=CtVhIITICF8&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=19
-Curso de Vue 3: #19 - Criando o projeto do curso
+19-Curso de Vue 3: #19 - Criando o projeto do curso
 
 	-criado o arquivo em vue 
 		vue create .
+
+
+https://www.youtube.com/watch?v=bleEztMsSDk&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=20
+20-Curso de Vue 3: #20 - Criando uma API com JSON server
+
+	-instalando o json-server, para simular o back-end, serve como uma API
+		npm install json-server
+
+		
 
 	
 
