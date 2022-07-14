@@ -165,6 +165,14 @@ https://www.youtube.com/watch?v=RXldGbtzZdI&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUu
 	-utilizando o $emit é possível ouvir um evento de um componenente filho em um componenente pai 
 
 
+https://www.youtube.com/watch?v=CtVhIITICF8&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=19
+Curso de Vue 3: #19 - Criando o projeto do curso
+
+	-criado o arquivo em vue 
+		vue create .
+
+	
+
 
 
 
