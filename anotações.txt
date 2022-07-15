@@ -190,6 +190,18 @@ https://www.youtube.com/watch?v=B5NX9oPf5fI&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUu
 https://www.youtube.com/watch?v=UyOv6PTY50Y&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=22
 22-Curso de Vue 3: #22 - Finalizando cabeçado e rodapé do projeto
 
+	-feito as partes HTML, style e script básico de footer e navbar 
+
+
+https://www.youtube.com/watch?v=ihCBurkrFyc&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=23
+23-Curso de Vue 3: #23 - Criando banner da aplicação
+
+	-construido o componente Banner, inserido o seu script e o style 
+
+
+https://www.youtube.com/watch?v=mCfqTo9LdL8&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=25
+24-Curso de Vue 3: #24 - Criando formulário de cadastro
+
 	-
 		
 
