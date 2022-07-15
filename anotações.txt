@@ -185,6 +185,12 @@ https://www.youtube.com/watch?v=B5NX9oPf5fI&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUu
 	-entendendo o vue router 
 		baixado as imagens do projeto e o faviicon substituído 
 		contruído os components de home e pedidos 
+
+
+https://www.youtube.com/watch?v=UyOv6PTY50Y&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=22
+22-Curso de Vue 3: #22 - Finalizando cabeçado e rodapé do projeto
+
+	-
 		
 
 
