@@ -202,7 +202,67 @@ https://www.youtube.com/watch?v=ihCBurkrFyc&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUu
 https://www.youtube.com/watch?v=mCfqTo9LdL8&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=25
 24-Curso de Vue 3: #24 - Criando formulário de cadastro
 
-	-
+	-construido o componente BurgerForm, inserido o seu script e o style 
+
+
+https://www.youtube.com/watch?v=DxYc2CUan_4&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=25
+25-Curso de Vue 3: #25 - Resgatando dados do banco e inserindo no formulário
+
+	-os dados do array que contém dos dados estão sendo trazidos dinamicamente no BurgerForm 
+
+
+https://www.youtube.com/watch?v=Z5eTqFtCZHk&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=26
+26-Curso de Vue 3: #26 - Inserindo dados no banco
+
+	-criado a conexão com o db.json. Feito a lógica de inserir e trazer os dados do array (banco fake)
+
+
+https://www.youtube.com/watch?v=5WXWoe2t_00&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=27
+27-Curso de Vue 3: #27 - Criando componente de mensagens do sistema
+
+	-criado o componenente Message.vue, e neste customizado sua estilização, bem como inseridos alguns scripts para tornar dinamico a ação 
+
+
+https://www.youtube.com/watch?v=a5ALeXKWGJM&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=28
+28-Curso de Vue 3: #28 - Criando a tela de pedidos (Dashboard)
+
+	-criado o componenente Dashboard.vue, nele foi implementado a estrutura básica de template, de script e style. Foi feita a sua exportação. E foi importado em Pedidos
+
+
+https://www.youtube.com/watch?v=noQdE8weGv4&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=29
+29-Curso de Vue 3: #29 - Resgatando pedidos do banco
+
+	-feito a logica para trazer a lista de pedidos em Pedidos.vue
+	
+
+https://www.youtube.com/watch?v=a7Z-hoIfAnE&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=30
+30-Curso de Vue 3: #30 - Recebendo os status dos pedidos
+
+	-feito a lógica de trazer os select de status 
+
+
+https://www.youtube.com/watch?v=u8Nb1SBX-GQ&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=31
+31-Curso de Vue 3: #31 - Removendo pedidos do sistema
+
+	-feito a lógica para deletar intens da lista 
+
+
+https://www.youtube.com/watch?v=_i-vRSlKgkI&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=32
+32-Curso de Vue 3: #32 - Atualização de pedidos
+
+	-feito a lógica para atualizar o status do pedido 
+
+
+https://www.youtube.com/watch?v=Rq51X_-0QaU&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=33
+33-Curso de Vue 3: #33 - Mensagens nas atualizações e remoções de pedido
+
+	-feito a lógica para mensagem de aviso 
+
+
+https://www.youtube.com/watch?v=DU2mQusXf-s&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&index=34
+Curso de Vue 3: #34 - Conclusão do curso
+
+	-CONCLUÍDO!
 		
 
 
